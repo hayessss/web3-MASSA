@@ -63,3 +63,6 @@ typings/
 
 # build folder
 dist/
+
+# bundle files
+bundle.*
