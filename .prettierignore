@@ -2,3 +2,6 @@ build
 node_modules
 .github
 bundle.*
+docs
+dist
+*.json
