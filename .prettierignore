@@ -5,3 +5,5 @@ bundle.*
 docs
 dist
 *.json
+.lintstagedrc
+README.md
