@@ -7,3 +7,6 @@ dist
 *.json
 .lintstagedrc
 README.md
+*.html
+*.md
+coverage
